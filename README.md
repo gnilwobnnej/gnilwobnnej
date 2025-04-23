@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jenn</h1>
 <h3 align="center">🌱I'm looking to grow as a data scientist🌱</h3>
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnilwobnnej&label=Profile%20views&color=0e75b6&style=flat" alt="gnilwobnnej" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnilwobnnej" alt="gnilwobnnej" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rgnilwobnnej&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left">
 </p>
