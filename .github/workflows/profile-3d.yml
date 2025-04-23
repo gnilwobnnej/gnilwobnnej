@@ -17,11 +17,12 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          echo "::add-mask::${GITHUB_TOKEN}"
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "generated"; then
-            git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           fi
