@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jenn</h1>
+<h1 align="center">Hi, I'm Jenn</h1>
 <h3 align="center">🌱I'm looking to grow as a data scientist🌱</h3>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
